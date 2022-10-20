@@ -1,0 +1,15 @@
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/MyFirstApp
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/MyFirstApp.deps.json
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/MyFirstApp.runtimeconfig.json
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/MyFirstApp.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/ref/MyFirstApp.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/MyFirstApp.pdb
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.AssemblyReference.cache
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfo.cs
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/ref/MyFirstApp.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.pdb
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/MyFirstApp.genruntimeconfig.cache

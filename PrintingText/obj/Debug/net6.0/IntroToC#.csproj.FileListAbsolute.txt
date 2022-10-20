@@ -1,0 +1,15 @@
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/IntroToC#
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/IntroToC#.deps.json
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/IntroToC#.runtimeconfig.json
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/IntroToC#.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/ref/IntroToC#.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/bin/Debug/net6.0/IntroToC#.pdb
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.csproj.AssemblyReference.cache
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.AssemblyInfoInputs.cache
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.AssemblyInfo.cs
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.csproj.CoreCompileInputs.cache
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/ref/IntroToC#.dll
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.pdb
+/home/whudson-aws/Documents/csharp-course/MyFirstApp/obj/Debug/net6.0/IntroToC#.genruntimeconfig.cache
